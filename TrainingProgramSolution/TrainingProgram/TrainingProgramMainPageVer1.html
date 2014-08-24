@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.1.js"></script>
+    <script type="text/javascript" src="TrainingProgramVer1JavaScript.js"></script>
+    <script type="text/javascript" src="TrainingProgramXMLJavaScript.js"></script>
+    <script type="text/javascript" src="Scripts/FileSaver.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="TrainingProgramStyleSheetVer1.css">
+    <title>Träningssida</title>
+</head>
+<body>
+    <section id="TrainingProgram">
+        <div id="wrapper">
+            <div id="icon" class="tooltip" title="Träningsprogram sida av Ulf Eklund">Träningsprogram</div>
+            <div id="snow"></div>
+            <div id="tree"></div>
+        </div>
+        Välj workout
+        <select id="selectWorkout">
+        </select>
+        <table class="TrainingProgramTable">
+            <caption class="Traingprogramcaption">Program 1: Super­Set: 4­-6 varv</caption>
+            <tr><th>Övning</th><th>Reps</th><th>Beskrivning</th><th>Youtube</th></tr>
+            <tr><td>*Armhävning:</td><td>10­-15 reps</td><td>Variationer: Smala, axelbreda, breda</td><td><a href="https://www.youtube.com/watch?v=Mk5dUWaZVGk" target="_blank">Armhävning med hantelrodd</a></td></tr>
+            <tr class="alt"><td>Stående Axelpress:</td><td>10­-15 reps</td><td>Variationer: en hantel, ett ben och en hantel</td><td><a href="https://www.youtube.com/watch?v=hKm9V4EYrYs" target="_blank">Stående Axelpress</a></td></tr>
+            <tr><td>Hantel Rodd:</td><td>5-10 reps per arm</td><td>Lutandes mot stol</td><td><a href="https://www.youtube.com/watch?v=-koP10y1qZI" target="_blank">Hantel Rodd </a></td></tr>
+            <tr class="alt"><td>**BicepsCurl:</td><td>5­-10 reps per arm</td><td><td></td></tr>
+            <tr><td>**Tricepspress:</td><td>10­-15 reps</td><td>En hantel</td><td><a href="https://www.youtube.com/watch?v=-Vyt2QdsR7E" target="_blank">Tricepspress</a></td></tr>
+        </table>
+        <p>
+            * Kan köra armhävning med hantel rodd när armhävningar blir lätt.<br />
+            ** Körs var annat varv. Ex. Biceps varv 1 och 3. Triceps varv 2 och 4.
+        </p>
+        <table class="TrainingProgramTable">
+            <caption class="Traingprogramcaption">Program 2: Super­Set: 4­-6 varv</caption>
+            <tr><th>Övning</th><th>Reps</th><th>Beskrivning</th><th>Youtube</th></tr>
+            <tr><td>Kålmasken:</td><td>5­-15 reps</td><td><td><a href="https://www.youtube.com/watch?v=aA_cWASgT1M" target="_blank">Kålmasken</a></td></tr>
+            <tr class="alt"><td>Dips:</td><td>10-­15 reps</td><td>Mot stol eller annan höjd</td><td><a href="https://www.youtube.com/watch?v=7wA1lxG5dTE" target="_blank">Dips</a></td></tr>
+            <tr><td>Axellyft med hantel</td><td>10­-15 reps</td><td>Rakt upp, eller rotationslyft</td><td></td></tr>
+            <tr class="alt"><td>Liggande hantelpress</td><td>10-­20 reps</td><td>Liggandes på golv</td><td><a href="https://www.youtube.com/watch?v=uUGDRwge4F8" target="_blank">Liggande hantelpress</a></td></tr>
+        </table>
+        <p>
+            1­-2 min vila mellan varje varv.
+        </p>
+    </section>
+    <section id="TrainingHelpTools">
+        <div id="clock" class="clock"></div>
+        <h1>Tränings tillfälle</h1>
+        <button id="startButton1" onclick="stopWatch1.onButton();onStartButton()">Starta</button><div id="duration1" class="duration"></div>
+        <br /><br />Pågånde set <div id='currentSet' class="counter"></div><button id="incrementSet" class="increment" onclick="onIncrementSet()">+</button>
+        <button id="decrementSet" class="decrement" onclick="onDecrementSet()">-</button>
+        <br /><br /><button id="startButton2" onclick="stopWatch2.onButton();">Starta</button><div id="duration2" class="duration"></div>
+        <br /><br /><button id="startButton3" onclick="stopWatch3.onButton();">Starta</button><div id="duration3" class="duration"></div>
+        <br /><br /><button id="startButton4" onclick="stopWatch4.onButton();">Starta</button><div id="duration4" class="duration"></div>
+        <br /><br /><button id="save" onclick="saveTraining();">Save</button>
+        <br /><br /><button id="get" onclick="getTraining();">Get</button>
+        <br /><br /><button id="save" onclick="download('test.xml', '<test>TEST</test>');">Save XML file</button>
+        <br /><br /><button id="save" onclick="writeFileUsingFileSaver();">Save with FileSaver</button>
+        
+    </section>
+</body>
+</html>

@@ -1,0 +1,112 @@
+﻿{
+	"workout" : [{
+			"name" : "Program 1",
+			"description" : "Super-Set: 4--6 varv",
+			"exercise" : [{
+					"name" : "Armhävning",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Variationer: Smala, axelbreda, breda",
+						"video" : "//www.youtube.com/embed/Mk5dUWaZVGk"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Stående Axelpress",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Variationer: En hantel, ett ben och en hantel",
+						"video" : "//www.youtube.com/embed/hKm9V4EYrYs"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Hantel Rodd",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Lutandes mot stol",
+						"video" : "//www.youtube.com/embed/-koP10y1qZI"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "BicepsCurl",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Ståendes eller sittande, armbågar stilla"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Tricepspress",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "En hantel",
+						"video" : "//www.youtube.com/embed/-Vyt2QdsR7E"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}
+			]
+		}, {
+			"name" : "Program 2",
+			"description" : "Super-Set: 4--6 varv",
+			"exercise" : [{
+					"name" : "Kålmasken",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "",
+						"video" : "//www.youtube.com/embed/-Vyt2QdsR7E"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Dips",
+					"sets" : " 6 ",
+					"reps" : " 10 ",
+					"description" : {
+						"text" : "Mot stol eller annan höjd",
+						"video" : " //www.youtube.com/embed/7wA1lxG5dTE"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Axellyft med hantel",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Rakt upp, eller rotationslyft"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}, {
+					"name" : "Liggande hantelpress",
+					"sets" : "6",
+					"reps" : "10",
+					"description" : {
+						"text" : "Liggandes på golv",
+						"video" : "//www.youtube.com/embed/uUGDRwge4F8"
+					},
+					"muscle" : {
+						"name" : "Muscle name"
+					}
+				}
+			]
+		}
+
+	]
+}

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Xworkout.xslt"?>
+
+<!--Kommentar-->
+<workout xmlns="http://tempuri.org/XMLSchema.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="workout.xsd">
+  <name>Workoutname</name>
+  <description>Workout description</description>
+  <exercises>
+    <exercise>
+      <name>Exercise 1</name>
+      <sets>6</sets>
+      <reps>10</reps>
+      <description>
+        <text>Exercise 1 description text</text>
+        <image></image>
+        <video></video>
+      </description>
+      <muscle>
+        <name>Muscle name</name>
+        <image></image>
+      </muscle>
+    </exercise>
+    <exercise>
+      <name>Exercise 2</name>
+      <sets>6</sets>
+      <reps>10</reps>
+      <description>
+        <text>Exercise 2 description text</text>
+        <image></image>
+        <video></video>
+      </description>
+      <muscle>
+        <name>Muscle name</name>
+        <image></image>
+      </muscle>
+    </exercise>
+    <exercise>
+      <name>Exercise 3</name>
+      <sets>6</sets>
+      <reps>10</reps>
+      <description>
+        <text>Exercise 3 description text</text>
+        <image></image>
+        <video></video>
+      </description>
+      <muscle>
+        <name>Muscle name</name>
+        <image></image>
+      </muscle>
+    </exercise>
+    <exercise>
+      <name>Exercise 4</name>
+      <sets>6</sets>
+      <reps>10</reps>
+      <description>
+        <text>Exercise 4 description text</text>
+        <image></image>
+        <video></video>
+      </description>
+      <muscle>
+        <name>Muscle name</name>
+        <image></image>
+      </muscle>
+    </exercise>
+  </exercises>
+</workout>
+
+

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROWSET>
+  <ROW>
+    <Övning>Kalle Kålmasken</Övning>
+    <Reps>5­-15 reps</Reps>
+    <Beskrivning>Besk</Beskrivning>
+    <Youtube>Kålmasken</Youtube>
+    <FIELD5></FIELD5>
+  </ROW>
+  <ROW>
+    <Övning>Dips</Övning>
+    <Reps>10-­15 reps</Reps>
+    <Beskrivning>Mot stol eller annan höjd</Beskrivning>
+    <Youtube>Dips</Youtube>
+    <FIELD5></FIELD5>
+  </ROW>
+  <ROW>
+    <Övning>Axellyft med hantel</Övning>
+    <Reps>10­-15 reps</Reps>
+    <Beskrivning>Rakt upp</Beskrivning>
+    <Youtube> eller rotationslyft</Youtube>
+    <FIELD5></FIELD5>
+  </ROW>
+  <ROW>
+    <Övning>Liggande hantelpress</Övning>
+    <Reps>10-­20 reps</Reps>
+    <Beskrivning>Liggandes på golv</Beskrivning>
+    <Youtube>Liggande hantelpress</Youtube>
+    <FIELD5></FIELD5>
+  </ROW>
+</ROWSET>

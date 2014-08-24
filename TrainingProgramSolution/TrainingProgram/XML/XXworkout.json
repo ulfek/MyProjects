@@ -1,0 +1,72 @@
+{
+  "workout": [
+  {
+    "name": "Workoutname 1",
+    "description": "Workout description",
+      "exercise": [
+        {
+          "name": "Exercise 1",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Exercise 2",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Exercise 3",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Exercise 4",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        }
+      ]
+  }
+  ,{
+    "name": "Workoutname 2",
+    "description": "Workout description",
+      "exercise": [
+        {
+          "name": "Workout2 Exercise 1",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Workout2 Exercise 2",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Workout2 Exercise 3",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        },
+        {
+          "name": "Workout2 Exercise 4",
+          "sets": "6",
+          "reps": "10",
+          "description": { "text": "Exercise description text" },
+          "muscle": { "name": "Muscle name" }
+        }
+      ]
+  }
+  ]
+}

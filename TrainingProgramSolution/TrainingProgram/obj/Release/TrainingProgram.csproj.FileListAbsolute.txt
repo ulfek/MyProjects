@@ -1,0 +1,12 @@
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll.config
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.pdb
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.dll
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.pdb
+C:\Users\Ulf\documents\visual studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.csprojResolveAssemblyReference.cache
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll.config
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.pdb
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.csprojResolveAssemblyReference.cache
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.dll
+\\ULF-DATOR\Projects Visual Studio 2013\TrainingProgramSolution\TrainingProgram\obj\Release\TrainingProgram.pdb

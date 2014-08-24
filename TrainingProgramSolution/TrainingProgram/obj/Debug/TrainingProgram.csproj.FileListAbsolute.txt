@@ -1,0 +1,6 @@
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll.config
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.dll
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\bin\TrainingProgram.pdb
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Debug\TrainingProgram.csprojResolveAssemblyReference.cache
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Debug\TrainingProgram.dll
+C:\Users\Ulf\Documents\Visual Studio 2013\Projects\TrainingProgramSolution\TrainingProgram\obj\Debug\TrainingProgram.pdb
